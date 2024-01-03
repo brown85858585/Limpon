@@ -1,0 +1,13 @@
+div{
+	
+}
+span{
+	font-size: 20px;
+	color: red;
+}
+.bigred{
+	color: darkred;
+}
+span.bigred{
+	font-family: 'arial', 'verdana', serif;
+}
